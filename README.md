@@ -1,8 +1,8 @@
 # NLP_practice
+Repository for exercises related to NLP
 <br><br>
 ### ./tensorflow-ml-nlp
-Personal exercises based on the book "텐서플로와 머신러닝으로 시작하는 자연어처리"
-
+Personal exercises based on the book "텐서플로와 머신러닝으로 시작하는 자연어처리"<br>
 https://github.com/NLP-kr/tensorflow-ml-nlp-tf2
 <br>
 
